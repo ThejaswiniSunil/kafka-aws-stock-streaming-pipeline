@@ -4,7 +4,7 @@
 ### Streaming stock market data with Apache Kafka and AWS
 
 <p align="center">
-  <img src="docs/architecture.png" alt="Real-Time Stock Market Data Pipeline Architecture" width="100%">
+  <img src="Architecture.jpg" alt="Real-Time Stock Market Data Pipeline Architecture" width="100%">
 </p>
 
 ---
